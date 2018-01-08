@@ -1,0 +1,12 @@
+{
+  "name": "ch01",
+  "version": "0.0.0",
+  "description": "Ch01",
+  "main": "server.js",
+  "author": {
+    "name": "Dad"
+  },
+  "dependencies": {
+    "serve-static": "^1.13.1"
+  }
+}
